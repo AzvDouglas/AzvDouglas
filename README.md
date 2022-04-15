@@ -20,10 +20,10 @@ I'm Douglas Azevedo
   <img align="center" alt="Doug-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Doug-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp
   <img align="center" alt="Doug-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&nbsp
-  &nbsp  &nbsp   &nbsp  &nbsp  
-  <img align="center" alt="Doug-Keycloak" height="60" width="40" src="https://chronicler.tech/content/images/2021/02/avatar.png">&nbsp
-  <img align="center" alt="Doug-Linode" height="55" width="75" src="https://download.logo.wine/logo/Linode/Linode-Logo.wine.png">&nbsp
-  <img align="center" alt="Doug-Ansys" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ansys_logo_%282019%29.svg/2560px-Ansys_logo_%282019%29.svg.png">
+  &nbsp  
+  <img align="center" alt="Doug-Keycloak" height="60" width="60" src="https://chronicler.tech/content/images/2021/02/avatar.png">&nbsp
+  <img align="center" alt="Doug-Linode" height="50" width="100" src="https://download.logo.wine/logo/Linode/Linode-Logo.wine.png">&nbsp
+  <img align="center" alt="Doug-Ansys" height="30" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ansys_logo_%282019%29.svg/2560px-Ansys_logo_%282019%29.svg.png">
   
 </div>
   
