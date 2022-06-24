@@ -3,13 +3,12 @@
 I'm Douglas Azevedo
 
 - 🔭 I’m currently working on Laravel projects with Linode cloud service.
-- 🌱 I’m currently learning PHP, JavaScript, DevOps Tools and a bit of Computational Fluid Dynamics.
+- 🌱 I’m learning PHP, JavaScript, DevOps Tools and a bit of Computational Fluid Dynamics.
 - 😄 Pronouns: (He/Him/Ele/Dele)
 ##
 
 <div>
   <a href="https://github.com/azvdouglas">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=azvdouglas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azvdouglas&layout=compact&langs_count=7&theme=dark&count_private=true"/>
 </div>
 <div style="display: space-evenly"><br>
