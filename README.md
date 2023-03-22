@@ -2,9 +2,8 @@
 
 I'm Douglas Azevedo
 
-- 🔭 I’m currently working on Laravel projects with Linode cloud service.
-- 🌱 I’m learning PHP, JavaScript, DevOps Tools and a bit of Computational Fluid Dynamics.
-- 😄 Pronouns: (He/Him/Ele/Dele)
+- 🔭 I’m currently working in a Go project.
+- 🌱 I’m used to work with PHP, JavaScript, and DevOps Tools.
 ##
 
 <div>
