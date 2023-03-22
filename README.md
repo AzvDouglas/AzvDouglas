@@ -3,7 +3,7 @@
 I'm Douglas Azevedo
 
 - 🔭 I’m currently working in a Go project.
-- 🌱 I’m used to work with PHP, JavaScript, and DevOps Tools.
+- 🌱 I'm used to working with PHP, JavaScript, and DevOps.
 ##
 
 <div>
