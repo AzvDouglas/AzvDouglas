@@ -3,7 +3,7 @@
 Meu nome é Douglas Azevedo e atualmente trabalho como Desenvolvedor Frelancer, majoritariamente com Laravel.
 
 - 🔭 Gosto de trabalhar com a Stack TALL (Tailwind, Alpine, Laravel e Livewire);
-- 🐘 Trabalho com PHP desde 2021, minha linguagem predileta (não me julgue);
+- 🐘 Trabalho com PHP desde 2021, minha linguagem principal;
 - 🐍 Gosto bastante de Python, já me ajudou a resolver muito probloema; 
 - 🐹 Tenho Noção de Golang;
 ##
