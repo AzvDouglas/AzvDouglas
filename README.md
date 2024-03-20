@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-I'm Douglas Azevedo
+Meu nome é Douglas Azevedo e atualmente trabalho como Desenvolvedor Frelancer, majoritariamente com Laravel.
 
-- 🔭 I’m currently working in a Go project.
-- 🌱 I'm used to working with PHP, JavaScript, and DevOps.
+- 🔭 Gosto de trabalhar com a Stack TALL (Tailwind, Alpine, Laravel e Livewire);
+- 🐘 Trabalho com PHP desde 2021, minha linguagem predileta (não me julgue);
+- 🐍 Gosto bastante de Python, já me ajudou a resolver muito probloema; 
+- 🐹 Tenho Noção de Golang;
 ##
 
 <div>
@@ -23,13 +25,11 @@ I'm Douglas Azevedo
 </div>
   
   ##
+  Qualquer dúvida ou se quiser conhecer meus projetos fique a vontade para entrar em contato:
+  ##
  
 <div>
   <a href="https://instagram.com/azvdouglas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:douglas.souza@edu.ufes.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/azvdouglas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://twitter.com/azvdouglas" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/azvdouglas/azvdouglas/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
